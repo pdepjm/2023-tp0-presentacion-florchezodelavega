@@ -1,7 +1,7 @@
 #¡PRESENTACIÓN!
 
 
-[](foto.pnj)
+![Perfil](foto.pnj)
 
 
 Nombre: Mariano Sebastian Lamaison
