@@ -1,7 +1,7 @@
 #¡PRESENTACIÓN!
 
 
-![Perfil](photo_2023-03-31_01-39-57.jpg)
+![Perfil](photo_2023-03-31_01-39-572.png)
 
 
 Nombre: Mariano Sebastian Lamaison
