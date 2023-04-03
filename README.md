@@ -21,7 +21,7 @@ Como vi que alguien subio su equacion favorita decidi subir la mia.
 
 La fraccion continua de 3^(1/2)
 
-3^(1/2) = 2 - 1/x : x = 4-1/x la 
+3^(1/2) = 2 - 1/x : x = 4-1/x 
 
 ~~~
 
