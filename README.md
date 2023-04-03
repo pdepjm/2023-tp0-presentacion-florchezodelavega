@@ -5,7 +5,9 @@
 
 (es la unica foto mia que tenia en mi telefono)
 
-Nombre: Mariano Sebastian Lamaison
+Nombre/s: Mariano Sebastian 
+
+Apellido: Lamaison
 
 Legajo: 203.757-9
 
