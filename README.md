@@ -12,7 +12,7 @@ Legajo: 203.757-9
 Descripcion:
 
  Tengo 21 años recibido de bachiller en economia y este es mi tercer año en la facultado aunque todavia me quedan materias de segundo.
- Me gusta el dibujo, de musica escucho un poco de todo pero como pongo a reproducir de fondo no conosco interpretes, la universidad me genero un gusto por las matematicas (creo que se le dice sindrome de estocolmo), y tambien me gustan los videojuegos. Mi computadora es magica en el sentido de que siempre tiene algun problema que nadie sabe resolver cuando le instalo algo nuevo y estoy bastante emocionado cursar esta materia. 
+ Me gusta el dibujo, de musica escucho un poco de todo pero como pongo a reproducir de fondo no me se el nombre de muchos interpretes y la universidad me genero un gusto por las matematicas (creo que se le dice sindrome de estocolmo) tambien me gustan los videojuegos. Mi computadora es practicamente magica en el sentido de que siempre que le instale algo nuevo va a presentar algun problema que nadie sabe resolver a si que me veran en el foro de consultas seguido.
 
 Como vi que alguien subio su equacion favorita decidi subir la mia.
 
